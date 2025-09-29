@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "phone": "9991112222",
+    "eventCode": "EVT2025",
+    "present": true,
+    "meta": {
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "9991112222",
+      "eventCode": "EVT2025",
+      "role": "Speaker"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob Singh",
+    "email": "bob@example.com",
+    "phone": "8881113333",
+    "eventCode": "EVT2025",
+    "present": false,
+    "meta": {
+      "name": "Bob Singh",
+      "email": "bob@example.com",
+      "phone": "8881113333",
+      "eventCode": "EVT2025",
+      "role": "Participant"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Chitra Rao",
+    "email": "chitra@example.com",
+    "phone": "7771114444",
+    "eventCode": "EVT2024",
+    "present": true,
+    "meta": {
+      "name": "Chitra Rao",
+      "email": "chitra@example.com",
+      "phone": "7771114444",
+      "eventCode": "EVT2025",
+      "role": "Volunteer"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Deepak Mehta",
+    "email": "deepak@example.com",
+    "phone": "6661115555",
+    "eventCode": "EVT2025",
+    "present": true,
+    "meta": {
+      "name": "Deepak Mehta",
+      "email": "deepak@example.com",
+      "phone": "6661115555",
+      "eventCode": "EVT2025",
+      "role": "Participant"
+    }
+  }
+]
