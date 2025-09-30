@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@abhaydesu/git-pilot": "^1.1.0",
     "html2pdf.js": "^0.12.1",
     "papaparse": "^5.5.3",
     "react": "^19.1.1",
