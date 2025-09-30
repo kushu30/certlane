@@ -11,7 +11,11 @@
   },
   "dependencies": {
     "@abhaydesu/git-pilot": "^1.1.0",
+    "bcryptjs": "^3.0.2",
+    "cookie": "^1.0.2",
     "html2pdf.js": "^0.12.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.20.0",
     "papaparse": "^5.5.3",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
